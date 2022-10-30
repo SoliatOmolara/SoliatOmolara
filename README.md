@@ -22,7 +22,7 @@
 
 ### :woman_technologist: About Me :
 I am a Data scientist and Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m learning data science and machine learning
+- :telescope: I’m currently learning data science and machine learning
 - :seedling: Exploring Technical Content Writing with blogposts on Medium
 - :zap: In my free time, I listen to music, cook and read novels.
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-purple?style=flat&logo=Gmail&logoColor=white)](azeezsoleehah@gmail.com)
