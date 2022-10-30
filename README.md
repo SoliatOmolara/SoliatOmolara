@@ -25,7 +25,7 @@ I am a Data scientist and Machine Learning Engineer <img src="https://media.giph
 - :telescope: I’m currently learning data science and machine learning
 - :seedling: Exploring Technical Content Writing with blogposts on Medium
 - :zap: In my free time, I listen to music, cook and read novels.
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-purple?style=flat&logo=Gmail&logoColor=white)](azeezsoleehah@gmail.com)
+- :mailbox:How to reach me: MAIL, azeezsoleehah@gmail.com
 - 💞️ I’m looking to collaborate on open source data science and machine learning projects
 
 
