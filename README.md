@@ -21,8 +21,8 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Data scientist and Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m currently learning data science and machine learning
+I am a Software Engineer on the Backend<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: I’m currently learning Python for Backend Development.
 - :seedling: Exploring Technical Content Writing with blogposts on Medium
 - :zap: In my free time, I listen to music, cook and read novels.
 - :mailbox:How to reach me: MAIL, azeezsoleehah@gmail.com
