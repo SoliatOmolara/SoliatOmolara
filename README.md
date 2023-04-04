@@ -26,7 +26,7 @@ I am a Software Engineer on the Backend<img src="https://media.giphy.com/media/W
 - :seedling: Exploring Technical Content Writing with blogposts on Medium
 - :zap: In my free time, I listen to music, cook and read novels.
 - :mailbox:How to reach me: MAIL, azeezsoleehah@gmail.com
-- 💞️ I’m looking to collaborate on open source data science and machine learning projects
+- 💞️ I’m looking to collaborate on open source Python and Django projects
 
 
 ### :hammer_and_wrench: Languages and Tools :
